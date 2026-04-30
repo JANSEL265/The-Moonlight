@@ -138,7 +138,6 @@ strong {
     height: 625px;
     display: flex;
     align-items: center;
-
 }
 
 h1 {
@@ -287,8 +286,6 @@ background: limegreen;
     color: #fff;
     font-size: 20px;
 }
-
-
 
 @media all and (max-width: 1122px) {
 
